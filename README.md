@@ -15,9 +15,6 @@ Username: test@test.com
 
 Password: Test123
 
-The token-based authentication structure is based on the following reference:
-http://www.gokhan-gokalp.com/asp-net-web-api-token-based-authentication/
-
 Data Retrieval
 
 Once the token is obtained, it will be used to make a POST request to retrieve sales data:
