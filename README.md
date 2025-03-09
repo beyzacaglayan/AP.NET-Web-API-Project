@@ -38,4 +38,12 @@ The design of the PDF is not crucial, but it should include all relevant order d
 
 The ITextSharp library will be used for PDF generation.
 
+![görsel1](https://github.com/user-attachments/assets/5dafd57d-bcf6-4648-afe9-56adc6e39d04)
+
+![görsel 2](https://github.com/user-attachments/assets/0247f1ce-3a0c-4e2a-8d8c-5384fadc09a7)
+
+
+
 This project is an idea from BirFatura company.
+
+
